@@ -4,7 +4,7 @@
 Flora AI is a local AI that runs on your own personal computer and it uses ollama to function
 the models include
 
-- llama2                       |  3.8 GB 
+- gemma2:9b                    | 5.5 GB 
 
 - llama2-uncensored            | 3.8 GB
 
@@ -12,9 +12,8 @@ the models include
 
 - Moondream                    | 1.7 GB
 
-- qwen3:8b                     | 5.2 GB 
-
-
+- qwen3:8b                     | 5.2 GB
+         
 -----------------------------------------
 Copyright (c) 2026 Flere
 

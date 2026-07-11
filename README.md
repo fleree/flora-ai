@@ -1,7 +1,7 @@
-# Flora AI
+# Maverick AI
 ----------------------------------------
 
-Flora AI is a local AI that runs on your own personal computer and it uses ollama to function
+Maverick AI is a local AI that runs on your own personal computer and it uses ollama to function
 the models include
 
 - gemma2:9b                    | 5.5 GB 
